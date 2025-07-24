@@ -9,7 +9,7 @@
 
 # Installation Guide
 
-To install the YouTube Language Keyword Filter extension, follow these steps:
+To install the YouTube Playback Continuity extension, follow these steps:
 
 1. Visit the Mozilla Add-ons website: [YouTube Playback Continuity](https://addons.mozilla.org/en-US/firefox/addon/youtube-playback-continuity/).
 2. Click the "Add to Firefox" button,
